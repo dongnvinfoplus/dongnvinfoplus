@@ -8,3 +8,4 @@
 dongnvinfoplus/dongnvinfoplus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/dongshyshiny"><img src="https://api.daily.dev/devcards/5a7a86a21ab14300b8ee137baab11fca.png?r=d8e" width="400" alt="Đông Nguyễn's Dev Card"/></a>
